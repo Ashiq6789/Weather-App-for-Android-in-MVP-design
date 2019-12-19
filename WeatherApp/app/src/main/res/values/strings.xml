@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WetherApp</string>
+    <string-array name="city_List">
+        <item>Bogra</item>
+        <item>Barisal</item>
+        <item>Chittagong</item>
+        <item>Coxsbazar</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Mymensingh</item>
+        <item>Rangpur</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+    </string-array>
+</resources>
